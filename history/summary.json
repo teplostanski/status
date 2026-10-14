@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hacks.run.ico",
     "slug": "hacks-run",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "55.97%",
+    "uptimeDay": "55.97%",
+    "uptimeWeek": "55.97%",
+    "uptimeMonth": "55.97%",
+    "uptimeYear": "55.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-14": 0
+    }
   },
   {
     "name": "200ok API",
