@@ -8,6 +8,8 @@ sites:
     url: https://200ok.hacks.run/
   - name: Rand API
     url: https://rand.hacks.run/
+  - name: Kaomoji API
+    url: https://kaomoji.hacks.run
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,5 +29,10 @@ assignees:
 
 labels:
   - uptime
+
+notifications:
+  - type: email
+    config:
+      to: contact@teplostanski.me
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
