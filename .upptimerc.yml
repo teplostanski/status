@@ -2,6 +2,8 @@ owner: teplostanski
 repo: status-hacks-run
 
 sites:
+  - name: hacks.run
+    url: https://hacks.run
   - name: 200ok API
     url: https://200ok.hacks.run/
   - name: Rand API
@@ -20,5 +22,10 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+assignees:
+  - teplostanski
+
+labels:
+  - uptime
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
