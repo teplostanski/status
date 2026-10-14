@@ -1,5 +1,23 @@
 [
   {
+    "name": "hacks.run",
+    "url": "https://hacks.run",
+    "icon": "https://icons.duckduckgo.com/ip3/hacks.run.ico",
+    "slug": "hacks-run",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "200ok API",
     "url": "https://200ok.hacks.run/",
     "icon": "https://icons.duckduckgo.com/ip3/200ok.hacks.run.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1016,
-    "timeDay": 1016,
-    "timeWeek": 1016,
-    "timeMonth": 1016,
-    "timeYear": 1016,
+    "time": 976,
+    "timeDay": 976,
+    "timeWeek": 976,
+    "timeMonth": 976,
+    "timeYear": 976,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 710,
-    "timeWeek": 710,
-    "timeMonth": 710,
-    "timeYear": 710,
+    "time": 689,
+    "timeDay": 689,
+    "timeWeek": 689,
+    "timeMonth": 689,
+    "timeYear": 689,
     "dailyMinutesDown": {}
   }
 ]
